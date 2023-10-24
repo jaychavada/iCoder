@@ -1,2 +1,2 @@
 # iCoder
-https://jaychavada.github.io/iCoder/
+https://icoder-jaychavada.netlify.app/
